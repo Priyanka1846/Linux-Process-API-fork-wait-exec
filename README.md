@@ -1,3 +1,4 @@
+
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
 
@@ -135,6 +136,8 @@ $ ./execcheck2.o
 Running ps with execlp
 child exited with status of 0
 ```
+
+
 
 # RESULT:
 The programs are executed successfully.
